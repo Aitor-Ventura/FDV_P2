@@ -1,0 +1,3 @@
+Isabel Sánchez Berriel. Profesora de la asignatura Fundamentos de Desarrollo de Videojuegos.
+Fran Moreno Jiménez. He trabajado en videojuegos tanto en 2D como en 3D sobre todo durante mi Ingeniería Informática y en alguna Game Jam. Empecé con C++ puro y luego aprendí motores como Unity y Unreal Engine.
+Aitor Ventura Delgado. Trabajo como Desarrollador de Videojuegos con Unity tanto en proyectos 2D como 3D. Utilicé Unreal Engine en su día para ayudar a desarrollar una herramienta que introduce a los niños al motor.
