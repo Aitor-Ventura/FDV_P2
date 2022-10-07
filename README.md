@@ -1,4 +1,7 @@
 ## 🎈 Uploading files to Perforce
+
+*The Unity project was not uploaded to this repository due to its size.
+
 The process followed the following points:
 1. Get access to the ULL's VPN following their [guide](https://docs.google.com/document/d/1xhSRVqo6y5HYtQQtBemLEwDG6a_yjGlzrxjwuYxIQAk/edit).
 2. Download Perforce and its tool called [P4V](https://www.perforce.com/products/helix-core).
@@ -23,6 +26,9 @@ The process followed the following points:
 Congrats! All done 🤩. 
 
 ## 🎈 Subir archivos a Perforce
+
+*El proyecto de Unity no ha sido subido al repositorio debido a su tamaño.
+
 El proceso siguió los siguientes puntos:
 1. Acceder a la VPN de la Universidad de La Laguna siguiendo su [guía](https://docs.google.com/document/d/1xhSRVqo6y5HYtQQtBemLEwDG6a_yjGlzrxjwuYxIQAk/edit).
 2. Descargar Perforce y su herramienta [P4V](https://www.perforce.com/products/helix-core).
